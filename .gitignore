@@ -1,0 +1,7 @@
+*.pdf
+*.pyc
+*.tar
+*.test_log/
+.directory/
+.idea/
+
